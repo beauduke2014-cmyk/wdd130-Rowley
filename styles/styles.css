@@ -58,7 +58,7 @@ nav a {
 
 nav a:hover  {
     color: #2C2E5A;
-    background-color: #3FD6D9;
+    background-color: #D94F9F;
 }
 
 .hero {
@@ -86,14 +86,14 @@ p {
     margin-bottom: .5em;
 }
 
-.current_project{
+.current_project {
     border: solid;
     border-width: 5px;
     border-color: #4A4F63;
     display: grid;
     grid-template-columns: .5fr 2fr;
     grid-template-rows: 2em 1fr;
-    
+    margin: 5px;
 }
 
 .current_project h2 {
@@ -118,4 +118,20 @@ p {
     margin: auto;
     height: 100%;
     text-align: center;
+}
+
+footer {
+    background-color: #2C2E5A;
+    display: grid;
+    grid-template-columns: 1fr 1fr .33fr .33fr .33fr;
+}
+
+footer p {
+    color: #3FD6D9;
+    
+}
+
+footer img {
+    border-radius: 15%;
+    margin: auto;
 }
