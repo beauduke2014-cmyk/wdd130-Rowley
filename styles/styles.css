@@ -61,3 +61,26 @@ nav a:hover  {
     background-color: #3FD6D9;
 }
 
+.hero {
+    position: relative;
+}
+
+.hero img {
+    width: 100%;
+    margin-top: 5px;
+}
+
+.hero h2 {
+    position: absolute;
+    top: 50%;
+    right: 20%;
+    color: #dadada;
+    font-size: 3em;
+}
+p {
+    font-size: 1.5em;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    margin-bottom: .5em;
+}
