@@ -150,70 +150,70 @@ footer img {
 /* Additional CSS for Tech Page Adam */
 
 .grid_sections {
-            display: grid;
-            grid-template-columns: 1fr 1fr 1fr;
-            margin: 20px;
-        }
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 20px;
+}
 
-        .sections {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            width: 100%;
-        }
+.sections {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
 
-        .grid_sections p {
-            text-align: center;
-            margin: 0 auto;
-            color: #2C2E5A;
-        }
+.grid_sections p {
+    text-align: center;
+    margin: 0 auto;
+    color: #2C2E5A;
+}
 
-        .tech_h2 {
-            text-align: center;
-            margin: 0;
-            margin-bottom: 20px;
-            color: #2C2E5A;
-        }
+.tech_h2 {
+    text-align: center;
+    margin: 0;
+    margin-bottom: 20px;
+    color: #2C2E5A;
+}
 
-        .blank_section {
-            height: 100px;
-        }
+.blank_section {
+    height: 100px;
+}
 
-        .two_things {
-            width: 100%;
-        }
+.two_things {
+    width: 100%;
+}
 
-        .line {
-            width: 100%;
-            border: transparent;
-            background-color: #4A4F63;
-            height: 2px;
-            margin: 0;
-        }
+.line {
+    width: 100%;
+    border: transparent;
+    background-color: #4A4F63;
+    height: 2px;
+    margin: 0;
+}
 
-        #main_tech {
-            margin: 0;
-            padding: 0;
-        }
+#main_tech {
+    margin: 0;
+    padding: 0;
+}
 
-        #bottom_line {
-            margin-bottom: 5px;
-        }
+#bottom_line {
+    margin-bottom: 5px;
+}
 
-        #top_line {
-            margin-top: 5px;
-        }
+#top_line {
+    margin-top: 5px;
+}
 
-        .pspacer {
-            padding: 15px;
-        }
+.pspacer {
+    padding: 15px;
+}
 
-        #body_tech {
-            margin: 0px;
-        }
+#body_tech {
+    margin: 0px;
+}
 
-        .footer_header {
-            margin: 8px;
-        }
+.footer_header {
+    margin: 8px;
+}
 
 /* End of additional CSS Adam - Tech Page */
